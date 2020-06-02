@@ -1,0 +1,190 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Sri\College Academics\3rd semester\DST-NIMAT\SpeechToText\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from E:\Sri\College Academics\3rd semester\DST-NIMAT\SpeechToText\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from E:\Sri\College Academics\3rd semester\DST-NIMAT\SpeechToText\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from E:\Sri\College Academics\3rd semester\DST-NIMAT\SpeechToText\app\src\main\AndroidManifest.xml:2:1-36:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\cb2bd31d1c5ea87ae3d78105de0dc3cf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\66dbaddc62b4f3e7f8c057b1ff0c4ff8\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\03446ad6f1f134c99eda09da030f4494\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\c7dc3dea9ccd210c9308a7c0fd80a715\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\6da27d321a72b662c93f657c2b568c77\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\2a56707b66f641fa585f7583d1153330\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\7dd1020f35e0312fa5aa6caf74489b05\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\27f428e7f018a7a9a305f2e4946b636d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\ab48a015564d76a27a6ac259fb22fa4c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\2309db68e19adfc798bb112edb84cf97\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\6c94ae58f94582f5d5347070d8e27d43\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\cdae51659a4cc9b6a5a48082b1e2c105\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\04579b541c945b2d76596923ce7a84c7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\fb2832c0958097614bee26f9544761dd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\cd10f4b7cc737dc3570334e6355b994a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\fade72f0be7c05712dc6089a031b9cb0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\d665998daa33ca2aa52d36a375628b7d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\922114f09aeba72e39e8ed6f8d74e835\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\85ad84e3de79df8d4d777aabd211140d\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\52b9db516059a1ea73129749bcb208d2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\3fc20a669fb27ba65979cb51a9d4867b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\dba46f7da44fb8d4c63a33e51cb844b8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\0277166f28e012b978dd97d6b4cba952\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\ffe29855451733b64c1a7f59a1e32711\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\be0844367ca09b03c91b632fbb29824a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\f1a181f9cb276f024a24f43ea4165ae5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\c699ed0a1ce72ade8de2f821ea95826a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\1fd810602818513ab6246c2c736dbe07\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\746847e33301b77c25ad2a067057842d\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\Sri\College Academics\3rd semester\DST-NIMAT\SpeechToText\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from E:\Sri\College Academics\3rd semester\DST-NIMAT\SpeechToText\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from E:\Sri\College Academics\3rd semester\DST-NIMAT\SpeechToText\app\src\main\AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from E:\Sri\College Academics\3rd semester\DST-NIMAT\SpeechToText\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from E:\Sri\College Academics\3rd semester\DST-NIMAT\SpeechToText\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Sri\College Academics\3rd semester\DST-NIMAT\SpeechToText\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\Sri\College Academics\3rd semester\DST-NIMAT\SpeechToText\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\Sri\College Academics\3rd semester\DST-NIMAT\SpeechToText\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Sri\College Academics\3rd semester\DST-NIMAT\SpeechToText\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Sri\College Academics\3rd semester\DST-NIMAT\SpeechToText\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\Sri\College Academics\3rd semester\DST-NIMAT\SpeechToText\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\Sri\College Academics\3rd semester\DST-NIMAT\SpeechToText\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Sri\College Academics\3rd semester\DST-NIMAT\SpeechToText\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\Sri\College Academics\3rd semester\DST-NIMAT\SpeechToText\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from E:\Sri\College Academics\3rd semester\DST-NIMAT\SpeechToText\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Sri\College Academics\3rd semester\DST-NIMAT\SpeechToText\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from E:\Sri\College Academics\3rd semester\DST-NIMAT\SpeechToText\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\Sri\College Academics\3rd semester\DST-NIMAT\SpeechToText\app\src\main\AndroidManifest.xml:9:5-75
+	android:name
+		ADDED from E:\Sri\College Academics\3rd semester\DST-NIMAT\SpeechToText\app\src\main\AndroidManifest.xml:9:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\Sri\College Academics\3rd semester\DST-NIMAT\SpeechToText\app\src\main\AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from E:\Sri\College Academics\3rd semester\DST-NIMAT\SpeechToText\app\src\main\AndroidManifest.xml:10:22-77
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from E:\Sri\College Academics\3rd semester\DST-NIMAT\SpeechToText\app\src\main\AndroidManifest.xml:13:5-71
+	android:name
+		ADDED from E:\Sri\College Academics\3rd semester\DST-NIMAT\SpeechToText\app\src\main\AndroidManifest.xml:13:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from E:\Sri\College Academics\3rd semester\DST-NIMAT\SpeechToText\app\src\main\AndroidManifest.xml:14:5-71
+	android:name
+		ADDED from E:\Sri\College Academics\3rd semester\DST-NIMAT\SpeechToText\app\src\main\AndroidManifest.xml:14:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from E:\Sri\College Academics\3rd semester\DST-NIMAT\SpeechToText\app\src\main\AndroidManifest.xml:15:5-72
+	android:name
+		ADDED from E:\Sri\College Academics\3rd semester\DST-NIMAT\SpeechToText\app\src\main\AndroidManifest.xml:15:22-69
+application
+ADDED from E:\Sri\College Academics\3rd semester\DST-NIMAT\SpeechToText\app\src\main\AndroidManifest.xml:17:5-34:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\66dbaddc62b4f3e7f8c057b1ff0c4ff8\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\66dbaddc62b4f3e7f8c057b1ff0c4ff8\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\922114f09aeba72e39e8ed6f8d74e835\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\922114f09aeba72e39e8ed6f8d74e835\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\85ad84e3de79df8d4d777aabd211140d\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\85ad84e3de79df8d4d777aabd211140d\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\922114f09aeba72e39e8ed6f8d74e835\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from E:\Sri\College Academics\3rd semester\DST-NIMAT\SpeechToText\app\src\main\AndroidManifest.xml:20:9-41
+	android:icon
+		ADDED from E:\Sri\College Academics\3rd semester\DST-NIMAT\SpeechToText\app\src\main\AndroidManifest.xml:19:9-45
+	android:allowBackup
+		ADDED from E:\Sri\College Academics\3rd semester\DST-NIMAT\SpeechToText\app\src\main\AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from E:\Sri\College Academics\3rd semester\DST-NIMAT\SpeechToText\app\src\main\AndroidManifest.xml:21:9-40
+activity#info.androidhive.speechtotext.MainActivity
+ADDED from E:\Sri\College Academics\3rd semester\DST-NIMAT\SpeechToText\app\src\main\AndroidManifest.xml:22:9-26:20
+	android:label
+		ADDED from E:\Sri\College Academics\3rd semester\DST-NIMAT\SpeechToText\app\src\main\AndroidManifest.xml:24:13-45
+	android:name
+		ADDED from E:\Sri\College Academics\3rd semester\DST-NIMAT\SpeechToText\app\src\main\AndroidManifest.xml:23:13-41
+activity#info.androidhive.speechtotext.login
+ADDED from E:\Sri\College Academics\3rd semester\DST-NIMAT\SpeechToText\app\src\main\AndroidManifest.xml:27:9-33:20
+	android:name
+		ADDED from E:\Sri\College Academics\3rd semester\DST-NIMAT\SpeechToText\app\src\main\AndroidManifest.xml:27:19-40
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Sri\College Academics\3rd semester\DST-NIMAT\SpeechToText\app\src\main\AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from E:\Sri\College Academics\3rd semester\DST-NIMAT\SpeechToText\app\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from E:\Sri\College Academics\3rd semester\DST-NIMAT\SpeechToText\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Sri\College Academics\3rd semester\DST-NIMAT\SpeechToText\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from E:\Sri\College Academics\3rd semester\DST-NIMAT\SpeechToText\app\src\main\AndroidManifest.xml:31:27-74
+uses-sdk
+INJECTED from E:\Sri\College Academics\3rd semester\DST-NIMAT\SpeechToText\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Sri\College Academics\3rd semester\DST-NIMAT\SpeechToText\app\src\main\AndroidManifest.xml
+INJECTED from E:\Sri\College Academics\3rd semester\DST-NIMAT\SpeechToText\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\cb2bd31d1c5ea87ae3d78105de0dc3cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\cb2bd31d1c5ea87ae3d78105de0dc3cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\66dbaddc62b4f3e7f8c057b1ff0c4ff8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\66dbaddc62b4f3e7f8c057b1ff0c4ff8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\03446ad6f1f134c99eda09da030f4494\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\03446ad6f1f134c99eda09da030f4494\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\c7dc3dea9ccd210c9308a7c0fd80a715\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\c7dc3dea9ccd210c9308a7c0fd80a715\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\6da27d321a72b662c93f657c2b568c77\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\6da27d321a72b662c93f657c2b568c77\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\2a56707b66f641fa585f7583d1153330\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\2a56707b66f641fa585f7583d1153330\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\7dd1020f35e0312fa5aa6caf74489b05\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\7dd1020f35e0312fa5aa6caf74489b05\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\27f428e7f018a7a9a305f2e4946b636d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\27f428e7f018a7a9a305f2e4946b636d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\ab48a015564d76a27a6ac259fb22fa4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\ab48a015564d76a27a6ac259fb22fa4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\2309db68e19adfc798bb112edb84cf97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\2309db68e19adfc798bb112edb84cf97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\6c94ae58f94582f5d5347070d8e27d43\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\6c94ae58f94582f5d5347070d8e27d43\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\cdae51659a4cc9b6a5a48082b1e2c105\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\cdae51659a4cc9b6a5a48082b1e2c105\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\04579b541c945b2d76596923ce7a84c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\04579b541c945b2d76596923ce7a84c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\fb2832c0958097614bee26f9544761dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\fb2832c0958097614bee26f9544761dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\cd10f4b7cc737dc3570334e6355b994a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\cd10f4b7cc737dc3570334e6355b994a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\fade72f0be7c05712dc6089a031b9cb0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\fade72f0be7c05712dc6089a031b9cb0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\d665998daa33ca2aa52d36a375628b7d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\d665998daa33ca2aa52d36a375628b7d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\922114f09aeba72e39e8ed6f8d74e835\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\922114f09aeba72e39e8ed6f8d74e835\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\85ad84e3de79df8d4d777aabd211140d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\85ad84e3de79df8d4d777aabd211140d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\52b9db516059a1ea73129749bcb208d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\52b9db516059a1ea73129749bcb208d2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\3fc20a669fb27ba65979cb51a9d4867b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\3fc20a669fb27ba65979cb51a9d4867b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\dba46f7da44fb8d4c63a33e51cb844b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\dba46f7da44fb8d4c63a33e51cb844b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\0277166f28e012b978dd97d6b4cba952\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\0277166f28e012b978dd97d6b4cba952\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\ffe29855451733b64c1a7f59a1e32711\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\ffe29855451733b64c1a7f59a1e32711\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\be0844367ca09b03c91b632fbb29824a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\be0844367ca09b03c91b632fbb29824a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\f1a181f9cb276f024a24f43ea4165ae5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\f1a181f9cb276f024a24f43ea4165ae5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\c699ed0a1ce72ade8de2f821ea95826a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\c699ed0a1ce72ade8de2f821ea95826a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\1fd810602818513ab6246c2c736dbe07\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\1fd810602818513ab6246c2c736dbe07\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\746847e33301b77c25ad2a067057842d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\746847e33301b77c25ad2a067057842d\AndroidManifest.xml:20:5-44
+INJECTED from E:\Sri\College Academics\3rd semester\DST-NIMAT\SpeechToText\app\src\main\AndroidManifest.xml
+INJECTED from E:\Sri\College Academics\3rd semester\DST-NIMAT\SpeechToText\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Sri\College Academics\3rd semester\DST-NIMAT\SpeechToText\app\src\main\AndroidManifest.xml
+		ADDED from E:\Sri\College Academics\3rd semester\DST-NIMAT\SpeechToText\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Sri\College Academics\3rd semester\DST-NIMAT\SpeechToText\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Sri\College Academics\3rd semester\DST-NIMAT\SpeechToText\app\src\main\AndroidManifest.xml
+		ADDED from E:\Sri\College Academics\3rd semester\DST-NIMAT\SpeechToText\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Sri\College Academics\3rd semester\DST-NIMAT\SpeechToText\app\src\main\AndroidManifest.xml

@@ -1,0 +1,4 @@
+#Thu Feb 28 17:43:45 IST 2019
+base.0=E\:\\Sri\\College Academics\\3rd semester\\DST-NIMAT\\SpeechToText\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+path.0=classes.dex
+renamed.0=classes.dex
